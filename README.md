@@ -1,4 +1,4 @@
-### https://joren97x.github.io/portfolio/
+### https://github.com/sixto-tumulak/project-portfolio/
   
 requirements
 > vue-cli
